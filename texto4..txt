@@ -1,0 +1,1 @@
+negro, azul, marrón, gris, verde, naranja, rosa, púrpura, rojo, blanco,amarillo, turquesa, verde oliva, verde menta, borgoña, lavanda, magenta, salmón, cian, beige, rosado, verde oscuro, verde oliva, lila, amarillo pálido, fucsia, mostaza, ocre, trullo, malva, púrpura
